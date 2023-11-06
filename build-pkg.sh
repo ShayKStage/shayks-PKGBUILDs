@@ -8,5 +8,7 @@ CHROOT="$1/chroot"
 
 cd $1
 
+updpkgsums
+
 arch-nspawn $CHROOT/root pacman -Syu
 makechrootpkg -c -r $CHROOT
