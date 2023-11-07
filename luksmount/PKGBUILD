@@ -2,7 +2,7 @@
 pkgname=luksmount
 pkgver=1.0.4
 pkgrel=2
-pkgdesc='Utilities for LUKS encrypted drives/DM-Crypt'
+pkgdesc='Utility to mount/unmount LUKS encrypted drives'
 arch=(x86_64)
 url='https://github.com/ShayKStage/luksmount'
 license=(
