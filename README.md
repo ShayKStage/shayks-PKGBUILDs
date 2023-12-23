@@ -1,2 +1,2 @@
-# sks-arch-PKGBUILDs
-PKGBUILDs for sks-arch-repo
+# shayks-PKGBUILDs
+PKGBUILDs for ShayKStage/repo/arch/shayks
